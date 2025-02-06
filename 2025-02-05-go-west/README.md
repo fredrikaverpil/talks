@@ -1,10 +1,6 @@
-# Go West
+# Go West: Working with Go in Neovim
 
-## 2025-02-05
-
-- [Event info](https://www.meetup.com/sweden-go-west/events/305475640/?eventOrigin=group_upcoming_events)
-
-### Run presentation
+## Run presentation
 
 ```bash
 presenterm -x slides.md
