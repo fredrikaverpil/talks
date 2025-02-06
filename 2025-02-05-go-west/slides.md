@@ -80,7 +80,7 @@ theme:
 
 <!-- column: 0 -->
 
-![star history](star-history-2025127.png)
+![image](img/star-history-2025127.png)
 
 Forked off Vim in 2014.
 
@@ -208,7 +208,7 @@ Other ways to customize:
 
 <!-- column: 0 -->
 
-![lazy nvim](lazynvim.png)
+![lazy nvim](img/lazynvim.png)
 
 <!-- column: 1 -->
 
@@ -230,7 +230,7 @@ return {
 
 <!-- column: 0 -->
 
-![mason](mason.png)
+![mason](img/mason.png)
 
 <!-- column: 1 -->
 
@@ -340,7 +340,7 @@ vim.lsp.enable("gopls", true)
 - Information of actions presented inline in buffer
 - Not to be confused with "code actions" ("quickfix" in vscode)
 
-![code lens](codelens.png)
+![code lens](img/codelens.png)
 
 <!-- end_slide -->
 
@@ -348,7 +348,7 @@ vim.lsp.enable("gopls", true)
 
 - Not shown inline in the buffer.
 
-![code actions](codeactions.png)
+![code actions](img/codeactions.png)
 
 <!-- end_slide -->
 
@@ -438,7 +438,7 @@ Native snippets support (`go.json` file):
 
 Linter for `*.proto` files, leveraging `buf` and Google's `api-linter`.
 
-![api-linter](api-linter.png)
+![api-linter](img/api-linter.png)
 
 <!-- end_slide -->
 
@@ -541,7 +541,7 @@ LOC ❤️).
 
 ---
 
-![goplements](goplements.png)
+![goplements](img/goplements.png)
 
 <!-- end_slide -->
 
@@ -551,7 +551,7 @@ LOC ❤️).
 
 <!-- column: 0 -->
 
-![demo](demo.png)
+![demo](img/demo.png)
 
 <!-- column: 1 -->
 
